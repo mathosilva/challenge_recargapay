@@ -1,0 +1,4 @@
+{
+    "base": "http://jsonplaceholder.typicode.com",
+    "posts":"posts"
+}
